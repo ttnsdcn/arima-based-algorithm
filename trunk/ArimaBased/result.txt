@@ -1,0 +1,3520 @@
+Tempo em cada estado500.0
+
+
+Host number #0
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #1
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #2
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #3
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #4
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #5
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #6
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #7
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #8
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #9
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #10
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #11
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #12
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #13
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #14
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #15
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #16
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #17
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #18
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #19
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+Nº de vms criadas: 40
+
+Nº de vms na lista de espera: 0
+
+Estimativa para o próximo ciclo: 31
+
+Configuração do data center
+
+
+
+The host #0 is TURNED ON
+
+The host #1 is TURNED ON
+
+The host #2 is TURNED ON
+
+The host #3 is TURNED ON
+
+The host #4 is TURNED ON
+
+The host #5 is HIBERNATING
+
+The host #6 is HIBERNATING
+
+The host #7 is HIBERNATING
+
+The host #8 is HIBERNATING
+
+The host #9 is HIBERNATING
+
+The host #10 is HIBERNATING
+
+The host #11 is HIBERNATING
+
+The host #12 is HIBERNATING
+
+The host #13 is HIBERNATING
+
+The host #14 is HIBERNATING
+
+The host #15 is TURNED ON
+
+The host #16 is TURNED ON
+
+The host #17 is TURNED ON
+
+The host #18 is TURNED ON
+
+The host #19 is TURNED ON
+
+Tempo em cada estado1010.0
+
+
+Host number #0
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #1
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #2
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #3
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #4
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #5
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #6
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #7
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #8
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #9
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #10
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #11
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #12
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #13
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #14
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #15
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #16
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #17
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #18
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #19
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+Nº de vms criadas: 65
+
+Nº de vms na lista de espera: 0
+
+Estimativa para o próximo ciclo: 25
+
+Configuração do data center
+
+
+
+The host #0 is TURNED ON
+
+The host #1 is TURNED ON
+
+The host #2 is TURNED ON
+
+The host #3 is TURNED ON
+
+The host #4 is TURNED ON
+
+The host #5 is HIBERNATING
+
+The host #6 is HIBERNATING
+
+The host #7 is HIBERNATING
+
+The host #8 is HIBERNATING
+
+The host #9 is HIBERNATING
+
+The host #10 is HIBERNATING
+
+The host #11 is HIBERNATING
+
+The host #12 is HIBERNATING
+
+The host #13 is HIBERNATING
+
+The host #14 is HIBERNATING
+
+The host #15 is TURNED ON
+
+The host #16 is HIBERNATING
+
+The host #17 is HIBERNATING
+
+The host #18 is HIBERNATING
+
+The host #19 is STANDBY
+
+Tempo em cada estado1500.0
+
+
+Host number #0
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #1
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #2
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #3
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #4
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #5
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 1000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #6
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #7
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #8
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #9
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #10
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #11
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #12
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #13
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #14
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #15
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #16
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #17
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #18
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #19
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+Nº de vms criadas: 89
+
+Nº de vms na lista de espera: 0
+
+Estimativa para o próximo ciclo: 17
+
+Configuração do data center
+
+
+
+The host #0 is TURNED ON
+
+The host #1 is TURNED ON
+
+The host #2 is TURNED ON
+
+The host #3 is TURNED ON
+
+The host #4 is TURNED ON
+
+The host #5 is STANDBY
+
+The host #6 is HIBERNATING
+
+The host #7 is HIBERNATING
+
+The host #8 is HIBERNATING
+
+The host #9 is HIBERNATING
+
+The host #10 is HIBERNATING
+
+The host #11 is HIBERNATING
+
+The host #12 is HIBERNATING
+
+The host #13 is HIBERNATING
+
+The host #14 is HIBERNATING
+
+The host #15 is TURNED ON
+
+The host #16 is HIBERNATING
+
+The host #17 is HIBERNATING
+
+The host #18 is HIBERNATING
+
+The host #19 is STANDBY
+
+Tempo em cada estado2000.0
+
+
+Host number #0
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #1
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #2
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #3
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #4
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #5
+
+TURNED ON: 500.0
+
+STANDBY: 500.0
+
+HIBERNATING: 1000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #6
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 1500.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #7
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 1500.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #8
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #9
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #10
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #11
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #12
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #13
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #14
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #15
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #16
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #17
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #18
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #19
+
+TURNED ON: 1010.0
+
+STANDBY: 990.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+Nº de vms criadas: 104
+
+Nº de vms na lista de espera: 0
+
+Estimativa para o próximo ciclo: 23
+
+Configuração do data center
+
+
+
+The host #0 is TURNED ON
+
+The host #1 is TURNED ON
+
+The host #2 is TURNED ON
+
+The host #3 is TURNED ON
+
+The host #4 is TURNED ON
+
+The host #5 is TURNED ON
+
+The host #6 is STANDBY
+
+The host #7 is STANDBY
+
+The host #8 is HIBERNATING
+
+The host #9 is HIBERNATING
+
+The host #10 is HIBERNATING
+
+The host #11 is HIBERNATING
+
+The host #12 is HIBERNATING
+
+The host #13 is HIBERNATING
+
+The host #14 is HIBERNATING
+
+The host #15 is TURNED ON
+
+The host #16 is HIBERNATING
+
+The host #17 is HIBERNATING
+
+The host #18 is HIBERNATING
+
+The host #19 is HIBERNATING
+
+Tempo em cada estado2500.0
+
+
+Host number #0
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #1
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #2
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #3
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #4
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #5
+
+TURNED ON: 500.0
+
+STANDBY: 500.0
+
+HIBERNATING: 1000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #6
+
+TURNED ON: 500.0
+
+STANDBY: 500.0
+
+HIBERNATING: 1500.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #7
+
+TURNED ON: 500.0
+
+STANDBY: 500.0
+
+HIBERNATING: 1500.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #8
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 2000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #9
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 2000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #10
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #11
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #12
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #13
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #14
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #15
+
+TURNED ON: 2500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #16
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #17
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #18
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #19
+
+TURNED ON: 1010.0
+
+STANDBY: 990.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+Nº de vms criadas: 117
+
+Nº de vms na lista de espera: 0
+
+Estimativa para o próximo ciclo: 37
+
+Configuração do data center
+
+
+
+The host #0 is TURNED ON
+
+The host #1 is TURNED ON
+
+The host #2 is TURNED ON
+
+The host #3 is TURNED ON
+
+The host #4 is TURNED ON
+
+The host #5 is TURNED ON
+
+The host #6 is TURNED ON
+
+The host #7 is TURNED ON
+
+The host #8 is STANDBY
+
+The host #9 is STANDBY
+
+The host #10 is HIBERNATING
+
+The host #11 is HIBERNATING
+
+The host #12 is HIBERNATING
+
+The host #13 is HIBERNATING
+
+The host #14 is HIBERNATING
+
+The host #15 is HIBERNATING
+
+The host #16 is HIBERNATING
+
+The host #17 is HIBERNATING
+
+The host #18 is HIBERNATING
+
+The host #19 is HIBERNATING
+
+Tempo em cada estado3000.0
+
+
+Host number #0
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #1
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #2
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #3
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #4
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #5
+
+TURNED ON: 1500.0
+
+STANDBY: 500.0
+
+HIBERNATING: 1000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #6
+
+TURNED ON: 1000.0
+
+STANDBY: 500.0
+
+HIBERNATING: 1500.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #7
+
+TURNED ON: 500.0
+
+STANDBY: 500.0
+
+HIBERNATING: 1500.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #8
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 2000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #9
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 2000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #10
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #11
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #12
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #13
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #14
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #15
+
+TURNED ON: 2500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #16
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #17
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #18
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #19
+
+TURNED ON: 1010.0
+
+STANDBY: 990.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+Nº de vms criadas: 137
+
+Nº de vms na lista de espera: 0
+
+Estimativa para o próximo ciclo: 21
+
+Configuração do data center
+
+
+
+The host #0 is TURNED ON
+
+The host #1 is TURNED ON
+
+The host #2 is TURNED ON
+
+The host #3 is TURNED ON
+
+The host #4 is TURNED ON
+
+The host #5 is STANDBY
+
+The host #6 is HIBERNATING
+
+The host #7 is TURNED ON
+
+The host #8 is STANDBY
+
+The host #9 is STANDBY
+
+The host #10 is HIBERNATING
+
+The host #11 is HIBERNATING
+
+The host #12 is HIBERNATING
+
+The host #13 is HIBERNATING
+
+The host #14 is HIBERNATING
+
+The host #15 is HIBERNATING
+
+The host #16 is HIBERNATING
+
+The host #17 is HIBERNATING
+
+The host #18 is HIBERNATING
+
+The host #19 is HIBERNATING
+
+Tempo em cada estado3500.0
+
+
+Host number #0
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #1
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #2
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #3
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #4
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #5
+
+TURNED ON: 1500.0
+
+STANDBY: 1000.0
+
+HIBERNATING: 1000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #6
+
+TURNED ON: 1000.0
+
+STANDBY: 500.0
+
+HIBERNATING: 2000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #7
+
+TURNED ON: 500.0
+
+STANDBY: 500.0
+
+HIBERNATING: 1500.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #8
+
+TURNED ON: 500.0
+
+STANDBY: 1000.0
+
+HIBERNATING: 2000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #9
+
+TURNED ON: 500.0
+
+STANDBY: 1000.0
+
+HIBERNATING: 2000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #10
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #11
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #12
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #13
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #14
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #15
+
+TURNED ON: 2500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #16
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #17
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #18
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #19
+
+TURNED ON: 1010.0
+
+STANDBY: 990.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+Nº de vms criadas: 162
+
+Nº de vms na lista de espera: 0
+
+Estimativa para o próximo ciclo: 30
+
+Configuração do data center
+
+
+
+The host #0 is TURNED ON
+
+The host #1 is TURNED ON
+
+The host #2 is TURNED ON
+
+The host #3 is TURNED ON
+
+The host #4 is TURNED ON
+
+The host #5 is TURNED ON
+
+The host #6 is STANDBY
+
+The host #7 is TURNED ON
+
+The host #8 is HIBERNATING
+
+The host #9 is HIBERNATING
+
+The host #10 is HIBERNATING
+
+The host #11 is HIBERNATING
+
+The host #12 is HIBERNATING
+
+The host #13 is HIBERNATING
+
+The host #14 is HIBERNATING
+
+The host #15 is HIBERNATING
+
+The host #16 is HIBERNATING
+
+The host #17 is HIBERNATING
+
+The host #18 is HIBERNATING
+
+The host #19 is HIBERNATING
+
+Tempo em cada estado4005.0
+
+
+Host number #0
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #1
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #2
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #3
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #4
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #5
+
+TURNED ON: 1500.0
+
+STANDBY: 1000.0
+
+HIBERNATING: 1000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #6
+
+TURNED ON: 1000.0
+
+STANDBY: 1005.0
+
+HIBERNATING: 2000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #7
+
+TURNED ON: 500.0
+
+STANDBY: 500.0
+
+HIBERNATING: 1500.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #8
+
+TURNED ON: 500.0
+
+STANDBY: 1000.0
+
+HIBERNATING: 2505.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #9
+
+TURNED ON: 500.0
+
+STANDBY: 1000.0
+
+HIBERNATING: 2000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #10
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #11
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #12
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #13
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #14
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #15
+
+TURNED ON: 2500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #16
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #17
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #18
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #19
+
+TURNED ON: 1010.0
+
+STANDBY: 990.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+Nº de vms criadas: 186
+
+Nº de vms na lista de espera: 0
+
+Estimativa para o próximo ciclo: 30
+
+Configuração do data center
+
+
+
+The host #0 is TURNED ON
+
+The host #1 is TURNED ON
+
+The host #2 is TURNED ON
+
+The host #3 is TURNED ON
+
+The host #4 is TURNED ON
+
+The host #5 is TURNED ON
+
+The host #6 is TURNED ON
+
+The host #7 is TURNED ON
+
+The host #8 is STANDBY
+
+The host #9 is HIBERNATING
+
+The host #10 is HIBERNATING
+
+The host #11 is HIBERNATING
+
+The host #12 is HIBERNATING
+
+The host #13 is HIBERNATING
+
+The host #14 is HIBERNATING
+
+The host #15 is HIBERNATING
+
+The host #16 is HIBERNATING
+
+The host #17 is HIBERNATING
+
+The host #18 is HIBERNATING
+
+The host #19 is HIBERNATING
+
+Tempo em cada estado4500.0
+
+
+Host number #0
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #1
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #2
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #3
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #4
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #5
+
+TURNED ON: 1500.0
+
+STANDBY: 1000.0
+
+HIBERNATING: 1000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #6
+
+TURNED ON: 1000.0
+
+STANDBY: 1005.0
+
+HIBERNATING: 2000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #7
+
+TURNED ON: 500.0
+
+STANDBY: 500.0
+
+HIBERNATING: 1500.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #8
+
+TURNED ON: 500.0
+
+STANDBY: 1000.0
+
+HIBERNATING: 2505.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #9
+
+TURNED ON: 500.0
+
+STANDBY: 1000.0
+
+HIBERNATING: 2000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #10
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #11
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #12
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #13
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #14
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #15
+
+TURNED ON: 2500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #16
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #17
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #18
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #19
+
+TURNED ON: 1010.0
+
+STANDBY: 990.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+Nº de vms criadas: 214
+
+Nº de vms na lista de espera: 0
+
+Estimativa para o próximo ciclo: 33
+
+Configuração do data center
+
+
+
+The host #0 is TURNED ON
+
+The host #1 is TURNED ON
+
+The host #2 is TURNED ON
+
+The host #3 is TURNED ON
+
+The host #4 is TURNED ON
+
+The host #5 is TURNED ON
+
+The host #6 is TURNED ON
+
+The host #7 is TURNED ON
+
+The host #8 is STANDBY
+
+The host #9 is HIBERNATING
+
+The host #10 is HIBERNATING
+
+The host #11 is HIBERNATING
+
+The host #12 is HIBERNATING
+
+The host #13 is HIBERNATING
+
+The host #14 is HIBERNATING
+
+The host #15 is HIBERNATING
+
+The host #16 is HIBERNATING
+
+The host #17 is HIBERNATING
+
+The host #18 is HIBERNATING
+
+The host #19 is HIBERNATING
+
+Tempo em cada estado5005.0
+
+
+Host number #0
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #1
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #2
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #3
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #4
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #5
+
+TURNED ON: 1500.0
+
+STANDBY: 1000.0
+
+HIBERNATING: 1000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #6
+
+TURNED ON: 1000.0
+
+STANDBY: 1005.0
+
+HIBERNATING: 2000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #7
+
+TURNED ON: 500.0
+
+STANDBY: 500.0
+
+HIBERNATING: 1500.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #8
+
+TURNED ON: 500.0
+
+STANDBY: 2000.0
+
+HIBERNATING: 2505.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #9
+
+TURNED ON: 500.0
+
+STANDBY: 1000.0
+
+HIBERNATING: 2000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #10
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #11
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #12
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #13
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #14
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #15
+
+TURNED ON: 2500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #16
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #17
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #18
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #19
+
+TURNED ON: 1010.0
+
+STANDBY: 990.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+Nº de vms criadas: 249
+
+Nº de vms na lista de espera: 0
+
+Estimativa para o próximo ciclo: 22
+
+Configuração do data center
+
+
+
+The host #0 is TURNED ON
+
+The host #1 is TURNED ON
+
+The host #2 is TURNED ON
+
+The host #3 is TURNED ON
+
+The host #4 is TURNED ON
+
+The host #5 is TURNED ON
+
+The host #6 is TURNED ON
+
+The host #7 is TURNED ON
+
+The host #8 is HIBERNATING
+
+The host #9 is HIBERNATING
+
+The host #10 is HIBERNATING
+
+The host #11 is HIBERNATING
+
+The host #12 is HIBERNATING
+
+The host #13 is HIBERNATING
+
+The host #14 is HIBERNATING
+
+The host #15 is HIBERNATING
+
+The host #16 is HIBERNATING
+
+The host #17 is HIBERNATING
+
+The host #18 is HIBERNATING
+
+The host #19 is HIBERNATING
+
+Tempo em cada estado5500.0
+
+
+Host number #0
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #1
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #2
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #3
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #4
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #5
+
+TURNED ON: 1500.0
+
+STANDBY: 1000.0
+
+HIBERNATING: 1000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #6
+
+TURNED ON: 1000.0
+
+STANDBY: 1005.0
+
+HIBERNATING: 2000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #7
+
+TURNED ON: 500.0
+
+STANDBY: 500.0
+
+HIBERNATING: 1500.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #8
+
+TURNED ON: 500.0
+
+STANDBY: 2000.0
+
+HIBERNATING: 2505.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #9
+
+TURNED ON: 500.0
+
+STANDBY: 1000.0
+
+HIBERNATING: 2000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #10
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #11
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #12
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #13
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #14
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #15
+
+TURNED ON: 2500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #16
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #17
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #18
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #19
+
+TURNED ON: 1010.0
+
+STANDBY: 990.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+Nº de vms criadas: 279
+
+Nº de vms na lista de espera: 0
+
+Estimativa para o próximo ciclo: 25
+
+Configuração do data center
+
+
+
+The host #0 is TURNED ON
+
+The host #1 is TURNED ON
+
+The host #2 is TURNED ON
+
+The host #3 is TURNED ON
+
+The host #4 is TURNED ON
+
+The host #5 is TURNED ON
+
+The host #6 is TURNED ON
+
+The host #7 is TURNED ON
+
+The host #8 is HIBERNATING
+
+The host #9 is HIBERNATING
+
+The host #10 is HIBERNATING
+
+The host #11 is HIBERNATING
+
+The host #12 is HIBERNATING
+
+The host #13 is HIBERNATING
+
+The host #14 is HIBERNATING
+
+The host #15 is HIBERNATING
+
+The host #16 is HIBERNATING
+
+The host #17 is HIBERNATING
+
+The host #18 is HIBERNATING
+
+The host #19 is HIBERNATING
+
+Tempo em cada estado6000.0
+
+
+Host number #0
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #1
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #2
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #3
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #4
+
+TURNED ON: 0.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #5
+
+TURNED ON: 1500.0
+
+STANDBY: 1000.0
+
+HIBERNATING: 1000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #6
+
+TURNED ON: 1000.0
+
+STANDBY: 1005.0
+
+HIBERNATING: 2000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #7
+
+TURNED ON: 500.0
+
+STANDBY: 500.0
+
+HIBERNATING: 1500.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #8
+
+TURNED ON: 500.0
+
+STANDBY: 2000.0
+
+HIBERNATING: 2505.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #9
+
+TURNED ON: 500.0
+
+STANDBY: 1000.0
+
+HIBERNATING: 2000.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #10
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #11
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #12
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #13
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #14
+
+TURNED ON: 500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #15
+
+TURNED ON: 2500.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #16
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #17
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #18
+
+TURNED ON: 1010.0
+
+STANDBY: 0.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+
+Host number #19
+
+TURNED ON: 1010.0
+
+STANDBY: 990.0
+
+HIBERNATING: 0.0
+
+TURNED OFF: 0.0
+
+
+Nº de vms criadas: 307
+
+Nº de vms na lista de espera: 0
+
+Estimativa para o próximo ciclo: 23
+
+Configuração do data center
+
+
+
+The host #0 is TURNED ON
+
+The host #1 is TURNED ON
+
+The host #2 is TURNED ON
+
+The host #3 is TURNED ON
+
+The host #4 is TURNED ON
+
+The host #5 is TURNED ON
+
+The host #6 is TURNED ON
+
+The host #7 is TURNED ON
+
+The host #8 is HIBERNATING
+
+The host #9 is HIBERNATING
+
+The host #10 is HIBERNATING
+
+The host #11 is HIBERNATING
+
+The host #12 is HIBERNATING
+
+The host #13 is HIBERNATING
+
+The host #14 is HIBERNATING
+
+The host #15 is HIBERNATING
+
+The host #16 is HIBERNATING
+
+The host #17 is HIBERNATING
+
+The host #18 is HIBERNATING
+
+The host #19 is HIBERNATING
+
+
+
+Total simulation time: 7300,00 sec
+
+Energy consumption: 2,3572 kWh
+
+Hosts use energy consumption: 1,82 kWh
+
+Number of VM migrations: 0
+
+Number of SLA violations: 664
+
+SLA violation percentage: 0,85%
+
+Average SLA violation: 15,95%
+
